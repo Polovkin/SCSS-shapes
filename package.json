@@ -1,0 +1,28 @@
+{
+  "name": "scss-shapes",
+  "version": "1.0.0",
+  "description": "SCSSS shapes lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polovkin/SCSS-shapes.git"
+  },
+  "keywords": [
+    "shapes",
+    "sass",
+    "scss",
+    "css",
+    "scss-shapes",
+    "sass-shapes",
+    "css-shapes"
+  ],
+  "author": "Polovkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polovkin/SCSS-shapes/issues"
+  },
+  "homepage": "https://github.com/Polovkin/SCSS-shapes#readme"
+}
