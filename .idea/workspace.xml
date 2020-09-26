@@ -1,8 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17730d6d-c927-4835-a2eb-0c26bad6f98b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i2UR4dpa1L8RWfTnQjojC3A6P6" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17730d6d-c927-4835-a2eb-0c26bad6f98b" name="Default Changelist" comment="" />
+      <created>1601105169004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601105169004</updated>
+      <workItem from="1601105170365" duration="2747000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1601105338116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601105338116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="356" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601106180303">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="356" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601106180303" />
+    <state x="948" y="489" key="EditFileWatcherDialog" timestamp="1601105524770">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="948" y="489" key="EditFileWatcherDialog/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601105524770" />
+    <state width="2517" height="396" key="GridCell.Tab.0.bottom" timestamp="1601105636444">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="396" key="GridCell.Tab.0.bottom/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601105636444" />
+    <state width="2517" height="396" key="GridCell.Tab.0.center" timestamp="1601105636444">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="396" key="GridCell.Tab.0.center/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601105636444" />
+    <state width="2517" height="396" key="GridCell.Tab.0.left" timestamp="1601105636444">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="396" key="GridCell.Tab.0.left/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601105636444" />
+    <state width="2517" height="396" key="GridCell.Tab.0.right" timestamp="1601105636444">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="396" key="GridCell.Tab.0.right/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601105636444" />
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1601105344689">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601105344689" />
+    <state x="1099" y="611" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601105354551">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1099" y="611" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1601105354551" />
   </component>
 </project>

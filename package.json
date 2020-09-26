@@ -1,28 +1,35 @@
 {
-  "name": "scss-shapes",
-  "version": "1.0.0",
-  "description": "SCSSS shapes lib",
-  "main": "index.js",
+  "name": "template",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "vue-cli-service build",
+    "dev": "vue-cli-service serve",
+    "deploy": "firebase deploy"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Polovkin/SCSS-shapes.git"
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "breakpoint-sass": "^2.7.1",
+    "cssnano": "^4.1.10",
+    "normalize.css": "^8.0.1",
+    "postcss-loader": "^4.0.1",
+    "postcss-sort-media-queries": "^1.7.26",
+    "sort-css-media-queries": "^1.5.0",
+    "vue": "^2.6.11"
   },
-  "keywords": [
-    "shapes",
-    "sass",
-    "scss",
-    "css",
-    "scss-shapes",
-    "sass-shapes",
-    "css-shapes"
-  ],
-  "author": "Polovkin",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Polovkin/SCSS-shapes/issues"
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "style-resources-loader": "^1.3.2",
+    "vue-cli-plugin-pug": "^1.0.7",
+    "vue-cli-plugin-style-resources-loader": "^0.1.4",
+    "vue-template-compiler": "^2.6.11"
   },
-  "homepage": "https://github.com/Polovkin/SCSS-shapes#readme"
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
 }

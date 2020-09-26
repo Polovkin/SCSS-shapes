@@ -1,0 +1,19 @@
+/* Error: Can't find stylesheet to import.
+ *   ,
+ * 1 | @import "~breakpoint-sass";
+ *   |         ^^^^^^^^^^^^^^^^^^
+ *   '
+ *   c:\users\михаил\desktop\work\верстка\git\scss-shapes\src\assets\scss\core\_variables.scss 1:9  @import
+ *   c:\users\михаил\desktop\work\верстка\git\scss-shapes\src\assets\scss\core\base.scss 1:9        @import
+ *   c:\users\михаил\desktop\work\верстка\git\scss-shapes\src\assets\scss\main.scss 1:9             root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Can't find stylesheet to import.\a   \2577 \a 1 \2502  @import \"~breakpoint-sass\";\d\a   \2502          ^^^^^^^^^^^^^^^^^^\a   \2575 \a   c:\\users\\\43c \438 \445 \430 \438 \43b \\desktop\\work\\\432 \435 \440 \441 \442 \43a \430 \\git\\scss-shapes\\src\\assets\\scss\\core\\_variables.scss 1:9  @import\a   c:\\users\\\43c \438 \445 \430 \438 \43b \\desktop\\work\\\432 \435 \440 \441 \442 \43a \430 \\git\\scss-shapes\\src\\assets\\scss\\core\\base.scss 1:9        @import\a   c:\\users\\\43c \438 \445 \430 \438 \43b \\desktop\\work\\\432 \435 \440 \441 \442 \43a \430 \\git\\scss-shapes\\src\\assets\\scss\\main.scss 1:9             root stylesheet";
+}
